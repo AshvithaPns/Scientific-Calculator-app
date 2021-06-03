@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="previous_calculation">previous calculation</string>
+    <string name="Sin">Sin</string>
+    <string name="cos">Cos</string>
+    <string name="tan">Tan</string>
+    <string name="sin_arc">sin<sup><small>-1</small></sup></string>
+    <string name="cos_Arc">cos<sup><small>-1</small></sup></string>
+    <string name="tan_arc">tan<sup><small>-1</small></sup></string>
+    <string name="clear_text">AC</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="square_root">√</string>
+    <string name="pi">π</string>
+    <string name="modX">|x|</string>
+    <string name="exp">e</string>
+    <string name="prime">prime</string>
+    <string name="square_2">x<sup><small>2</small></sup></string>
+    <string name="square_x">^</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="percent">%</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="divide">÷</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="multiply">*</string>
+    <string name="zero">0</string>
+    <string name="open_parantha">(</string>
+    <string name="close_parantha">)</string>
+    <string name="substract">-</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="plus">+</string>
+    <string name="factorial">n!</string>
+
+
+</resources>
